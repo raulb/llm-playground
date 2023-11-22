@@ -1,0 +1,2 @@
+# do not rename the key of this env var since this is the default for OPENAI.
+export OPENAI_API_KEY="my-key"
